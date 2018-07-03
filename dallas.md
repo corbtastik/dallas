@@ -1,164 +1,81 @@
-Dallas
-==========
+## Dallas Theme  
+
+### Tolopea  
+
 ![#21064A](https://placehold.it/32/21064A/000000?text=+)
 
->**NAME**: Tolopea
->**RED**: 0.1289207339
->**GREEN**: 0.0237003677
->**BLUE**: 0.2906693816
->**ALPHA**: 1.0000000000
->**HEX**: #21064A
+### Paris M  
 
-----------
->**NAME**: Paris M
->**RED**: 0.1379032135
->**GREEN**: 0.0323104039
->**BLUE**: 0.4090558887
->**ALPHA**: 1.0000000000
->**HEX**: #230868
+![#230868](https://placehold.it/32/230868/000000?text=+)
 
-----------
->**NAME**: Blue Gem
->**RED**: 0.1876205206
->**GREEN**: 0.1093456224
->**BLUE**: 0.5387709737
->**ALPHA**: 1.0000000000
->**HEX**: #301C89
+### Blue Gem
 
-----------
->**NAME**: Meteorite
->**RED**: 0.2025884986
->**GREEN**: 0.1246348843
->**BLUE**: 0.4647554755
->**ALPHA**: 1.0000000000
->**HEX**: #342077
+![#301C89](https://placehold.it/32/301C89/000000?text=+)
 
-----------
->**NAME**: Jagger
->**RED**: 0.2390914857
->**GREEN**: 0.0675447062
->**BLUE**: 0.3504953384
->**ALPHA**: 1.0000000000
->**HEX**: #3D1159
+### Meteorite  
 
-----------
->**NAME**: Valentino
->**RED**: 0.2435412705
->**GREEN**: 0.0598746464
->**BLUE**: 0.2434301972
->**ALPHA**: 1.0000000000
->**HEX**: #3E0F3E
+![#342077](https://placehold.it/32/342077/000000?text=+)
 
-----------
->**NAME**: Scarlet Gum
->**RED**: 0.2989174724
->**GREEN**: 0.0853396431
->**BLUE**: 0.3617476821
->**ALPHA**: 1.0000000000
->**HEX**: #4C165C
+### Jagger
 
-----------
->**NAME**: Honey Flower
->**RED**: 0.3249002099
->**GREEN**: 0.1450337470
->**BLUE**: 0.4508477449
->**ALPHA**: 1.0000000000
->**HEX**: #532573
+![#3D1159](https://placehold.it/32/3D1159/000000?text=+)
 
-----------
->**NAME**: Rich Electric Blue
->**RED**: 0.0000000000
->**GREEN**: 0.5955265164
->**BLUE**: 0.8572120667
->**ALPHA**: 1.0000000000
->**HEX**: #0098DB
+### Valentino
 
-----------
->**NAME**: Deep Sky Blue
->**RED**: 0.0004535120
->**GREEN**: 0.7471842170
->**BLUE**: 0.9951974750
->**ALPHA**: 1.0000000000
->**HEX**: #00BFFE
+![#3E0F3E](https://placehold.it/32/3E0F3E/000000?text=+)
 
-----------
->**NAME**: Seagull
->**RED**: 0.5158617496
->**GREEN**: 0.8050966859
->**BLUE**: 0.9310365319
->**ALPHA**: 1.0000000000
->**HEX**: #84CDED
+### Scarlet Gum
 
-----------
->**NAME**: Charlotte
->**RED**: 0.7174733281
->**GREEN**: 0.9548313022
->**BLUE**: 0.9991039634
->**ALPHA**: 1.0000000000
->**HEX**: #B7F3FF
+![#4C165C](https://placehold.it/32/4C165C/000000?text=+)
 
-----------
->**NAME**: Carmine
->**RED**: 0.6376738548
->**GREEN**: 0.0125240264
->**BLUE**: 0.1250391901
->**ALPHA**: 1.0000000000
->**HEX**: #A30320
+### Honey Flower
 
-----------
->**NAME**: Bright Maroon
->**RED**: 0.7747395635
->**GREEN**: 0.0700711384
->**BLUE**: 0.3074946702
->**ALPHA**: 1.0000000000
->**HEX**: #C6124E
+![#532573](https://placehold.it/32/532573/000000?text=+)
 
-----------
->**NAME**: Crimson
->**RED**: 0.8780511022
->**GREEN**: 0.0710166916
->**BLUE**: 0.2356745303
->**ALPHA**: 1.0000000000
->**HEX**: #E0123C
+### Rich Electric Blue
 
-----------
->**NAME**: Folly
->**RED**: 1.0000000000
->**GREEN**: 0.0000000000
->**BLUE**: 0.3725490272
->**ALPHA**: 1.0000000000
->**HEX**: #FF005F
+![#0098DB](https://placehold.it/32/0098DB/000000?text=+)
 
-----------
->**NAME**: Shamrock
->**RED**: 0.2331047952
->**GREEN**: 0.8332135081
->**BLUE**: 0.6781093478
->**ALPHA**: 1.0000000000
->**HEX**: #3BD4AD
+### Deep Sky Blue
 
-----------
->**NAME**: Downy
->**RED**: 0.4303654432
->**GREEN**: 0.8704666495
->**BLUE**: 0.7600886226
->**ALPHA**: 1.0000000000
->**HEX**: #6EDEC2
+![#00BFFE](https://placehold.it/32/00BFFE/000000?text=+)
 
-----------
->**NAME**: Caribbean Green
->**RED**: 0.0896052644
->**GREEN**: 0.7665241361
->**BLUE**: 0.5892707109
->**ALPHA**: 1.0000000000
->**HEX**: #17C396
+### Seagull
 
-----------
->**NAME**: Free Speech Aquamarine
->**RED**: 0.0681069940
->**GREEN**: 0.6152529716
->**BLUE**: 0.4474379420
->**ALPHA**: 1.0000000000
->**HEX**: #119D72
+![#84CDED](https://placehold.it/32/84CDED/000000?text=+)
 
-----------
+### Charlotte
+
+![#B7F3FF](https://placehold.it/32/B7F3FF/000000?text=+)
+
+### Carmine
+
+![#A30320](https://placehold.it/32/A30320/000000?text=+)
+
+### Bright Maroon
+
+![#C6124E](https://placehold.it/32/C6124E/000000?text=+)
+
+### Crimson
+
+![#E0123C](https://placehold.it/32/E0123C/000000?text=+)
+
+### Folly
+
+![#FF005F](https://placehold.it/32/FF005F/000000?text=+)
+
+### Shamrock
+
+![#3BD4AD](https://placehold.it/32/3BD4AD/000000?text=+)
+
+### Downy
+
+![#6EDEC2](https://placehold.it/32/6EDEC2/000000?text=+)
+
+### Caribbean Green
+
+![#17C396](https://placehold.it/32/17C396/000000?text=+)
+
+### Free Speech Aquamarine
+
+![#119D72](https://placehold.it/32/119D72/000000?text=+)
