@@ -1,6 +1,6 @@
 Dallas
 ==========
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+- ![#21064A](https://placehold.it/32/21064A/000000?text=+) `#21064A`
 
 >**NAME**: Tolopea
 >**RED**: 0.1289207339
