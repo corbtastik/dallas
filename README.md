@@ -8,13 +8,13 @@
 
 ![#230868](https://placehold.it/128/230868/000000?text=+)
 
-### Blue Gem
-
-![#301C89](https://placehold.it/128/301C89/000000?text=+)
-
 ### Meteorite  
 
 ![#342077](https://placehold.it/128/342077/000000?text=+)
+
+### Blue Gem
+
+![#301C89](https://placehold.it/128/301C89/000000?text=+)
 
 ### Jagger
 
@@ -52,13 +52,13 @@
 
 ![#A30320](https://placehold.it/128/A30320/000000?text=+)
 
-### Bright Maroon
-
-![#C6124E](https://placehold.it/128/C6124E/000000?text=+)
-
 ### Crimson
 
 ![#E0123C](https://placehold.it/128/E0123C/000000?text=+)
+
+### Bright Maroon
+
+![#C6124E](https://placehold.it/128/C6124E/000000?text=+)
 
 ### Folly
 
