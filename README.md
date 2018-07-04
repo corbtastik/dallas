@@ -1,6 +1,6 @@
 ## Dallas Theme  
 
-![Dallas Icon](/images/green_building_480w.jpg)
+![Dallas Icon](/images/green_building_320w.jpg)
 
 ### Tolopea  
 
