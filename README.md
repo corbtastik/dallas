@@ -1,5 +1,7 @@
 ## Dallas Theme  
 
+![Dallas Icon](/images/green_building_480w.jpg)
+
 ### Tolopea  
 
 ![#21064A](https://placehold.it/128/21064A/000000?text=+)
